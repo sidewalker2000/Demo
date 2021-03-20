@@ -1,0 +1,187 @@
+html{
+    background-color: #ad9e9e;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 1920px;
+    height: 140px;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.div_header{
+    height: 100%;
+    width: 1200px;
+    margin-left: 360px;
+}
+
+
+.h1_header{
+    font-size: 48px;
+    color: white;
+    margin-top: 0px;
+    width: 120px;
+    /* height: 95px; */
+    padding-left: 40px;
+    padding-top: 10px;
+    /* border-left: solid white 1px; */
+    display: inline-block;
+    vertical-align: middle;
+}
+#div_try{
+    display: inline-block;
+    width: 1000px;
+    text-align: right;
+    vertical-align: middle;
+
+}
+#t{
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    /* border-right: 1px solid white; */
+}
+.main_list{
+    display: inline-block;
+    color: white;
+    text-align: right;
+    padding-right: 40px;
+    font-size: 36px;
+    cursor: pointer;
+
+}
+
+#div_h1{
+    width: 120px;
+    display: inline-block;
+
+}
+
+
+#pic{
+    background: url("Asset3.png");
+    width: 1920;
+    height: 500px;
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+#h1_hero{
+    font-size: 48px;
+    color: white;
+    margin-top: 0px;
+    margin-left: 400px;
+    padding-top: 150px;
+
+}
+
+#button{ 
+    margin-top: 100px;
+    margin-left: 400px;
+    height: 95px;
+    width: 360px;
+    background-color: #2079a3;
+    font-size: 48px;
+    color: white;
+
+}
+#main{
+    height: 400px;
+    width: 1920px;
+    border-bottom: solid 1px black;
+}
+#container{
+    width: 1500px;
+    /* height: 400px; */
+    margin-top: 590px;
+    margin-left: 360px;
+}
+#car1{
+    background: url("Asset 2.png");
+    width: 380px;
+    height: 250px;
+    /* margin-top: 590px;
+    margin-left: 360px; */
+    display: inline-block;
+padding-right: 25px;
+background-repeat:no-repeat;
+}
+#car2{
+    background: url("Asset 4.png");
+    width: 380px;
+    height: 250px;
+    display: inline-block;
+
+  padding-right: 25px;
+  background-repeat:no-repeat;
+
+}
+#car3{
+    background: url("Asset 5.png");
+    width: 380px;
+    height: 250px;
+    display: inline-block;
+}
+#text{
+    width: 200px;
+    height: 50px;
+    margin-left: 500px;
+    display: inline-block;
+    width: 1300px;
+}
+.car_text{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    padding-right: 350px;
+}
+
+footer{
+    background-color: black;
+    height: 300px;
+    width: 1920px;
+}
+#ul_footer{
+    margin-top: 0px;
+    color: white;
+    font-size: 48px;
+    margin-left: 400px;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.fin{
+    font-size: 24px;
+    padding: 10px;
+}
+
+#h22{
+    color: white;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+#face{
+    display: inline-block;
+    width: 130px;
+    height: 150px;
+    background: url("facebook.png");
+    background-repeat:no-repeat;
+    margin-left: 100px;
+}
+
+#twitter{
+    display: inline-block;
+    width: 130px;
+    height: 150px;
+    background: url("twitter.png");
+    background-repeat:no-repeat;
+    margin-left: 20px;
+
+}
